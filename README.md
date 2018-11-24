@@ -5,6 +5,7 @@ Applied Soft Computing 35 (2015):681–694.
 
 It proposes a new approach: clustering-ranking evolutionary algorithm, where the two procedures (clustering and ranking) are 
 implemented sequentially.
+
 ---
 The code was written in Java and based on the jMetal framework.
 
